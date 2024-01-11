@@ -8,4 +8,4 @@ engine.setProperty('rate,80)#سرعت صدا
 volume=engine.getProperty('volume')
 engine.setProperty('volume', 1.0)
 engine.say('hello')
-engine.runAndWait()
+engine.runAndWait()#
